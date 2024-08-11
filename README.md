@@ -1,2 +1,2 @@
-# NASA_SARP_Radiative_Forcing
+# NASA SARP Radiative Forcing
 My project for NASA SARP 2024
